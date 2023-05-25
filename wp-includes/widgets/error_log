@@ -1,0 +1,24 @@
+[28-Feb-2023 05:28:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/getfylig/estore.getfundedafrica.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Feb-2023 05:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/getfylig/estore.getfundedafrica.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Mar-2023 10:18:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/getfylig/estore.getfundedafrica.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Mar-2023 12:47:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/getfylig/estore.getfundedafrica.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Mar-2023 15:09:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/getfylig/estore.getfundedafrica.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Mar-2023 11:01:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/getfylig/estore.getfundedafrica.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/widgets/class-wp-widget-block.php on line 17

@@ -1,0 +1,102 @@
+[28-Feb-2023 05:28:40 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[28-Feb-2023 05:28:40 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[28-Feb-2023 05:28:40 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[28-Feb-2023 05:28:40 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[28-Feb-2023 05:28:40 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[28-Feb-2023 05:28:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-scripts.php on line 18
+[28-Feb-2023 05:28:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-styles.php on line 18
+[28-Feb-2023 05:28:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/getfylig/estore.getfundedafrica.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/template-canvas.php on line 12
+[28-Feb-2023 05:29:41 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[28-Feb-2023 05:29:41 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[28-Feb-2023 05:29:41 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[28-Feb-2023 05:29:41 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[28-Feb-2023 05:29:41 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[28-Feb-2023 05:29:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-scripts.php on line 18
+[28-Feb-2023 05:29:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-styles.php on line 18
+[28-Feb-2023 05:29:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/getfylig/estore.getfundedafrica.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/template-canvas.php on line 12
+[02-Mar-2023 10:17:43 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[02-Mar-2023 10:17:43 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[02-Mar-2023 10:17:43 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[02-Mar-2023 10:17:43 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[02-Mar-2023 10:17:43 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[02-Mar-2023 10:17:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-scripts.php on line 18
+[02-Mar-2023 10:17:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-styles.php on line 18
+[02-Mar-2023 10:18:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/getfylig/estore.getfundedafrica.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/template-canvas.php on line 12
+[02-Mar-2023 12:46:43 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[02-Mar-2023 12:46:43 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[02-Mar-2023 12:46:43 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[02-Mar-2023 12:46:43 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[02-Mar-2023 12:46:43 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[02-Mar-2023 12:46:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-scripts.php on line 18
+[02-Mar-2023 12:46:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-styles.php on line 18
+[02-Mar-2023 12:47:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/getfylig/estore.getfundedafrica.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/template-canvas.php on line 12
+[06-Mar-2023 15:08:37 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[06-Mar-2023 15:08:37 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[06-Mar-2023 15:08:37 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[06-Mar-2023 15:08:37 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[06-Mar-2023 15:08:37 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[06-Mar-2023 15:08:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-scripts.php on line 18
+[06-Mar-2023 15:08:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-styles.php on line 18
+[06-Mar-2023 15:09:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/getfylig/estore.getfundedafrica.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/template-canvas.php on line 12
+[07-Mar-2023 11:01:19 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[07-Mar-2023 11:01:19 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[07-Mar-2023 11:01:19 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[07-Mar-2023 11:01:19 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[07-Mar-2023 11:01:19 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-http.php on line 11
+[07-Mar-2023 11:01:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-scripts.php on line 18
+[07-Mar-2023 11:01:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/class-wp-styles.php on line 18
+[07-Mar-2023 11:01:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/getfylig/estore.getfundedafrica.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/getfylig/estore.getfundedafrica.com/wp-includes/template-canvas.php on line 12
